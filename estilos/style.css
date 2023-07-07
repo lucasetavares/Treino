@@ -163,10 +163,11 @@ main img.mudavel {
     color: #30A7D7;
 }
 
-.espaço{
+.espaço {
     margin-top: 30px;
     padding: 5px;
 }
+
 
 #tortuga {
     color: green;
@@ -236,7 +237,6 @@ aside > p > a:hover {
     color: #30A7D7;
     font-weight: bold;
 }
-
 
 
 
